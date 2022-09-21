@@ -9,3 +9,7 @@
 
 2. ## perfectnumber.java
 - Firstly, you have to give a number then this app control whether this number is perfect or not.
+
+3. ## uppertriangel.java
+- We can find upper traingel stars. 
+![İmage from app](image/uppertriangelstar.jpg)
