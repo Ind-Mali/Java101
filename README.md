@@ -13,3 +13,6 @@
 3. ## uppertriangel.java
 - We can find upper traingel stars. 
 ![İmage from app](image/uppertriangelstar.jpg)
+
+3. ## primenumber.java
+- If you give the number interval, the app would give whether the number is a prime number or not.
