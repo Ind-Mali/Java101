@@ -18,3 +18,9 @@
 
 5. ## fibbo.java
 - This app will return fibonacci series.
+
+6. ## PalindromMethot.java 
+- A palindromic number (also known as a numeral palindrome or a numeric palindrome) is a number (such as 16461) that remains the same when its digits are reversed.
+- I  started to write method with this app.
+- This app will throw back false or true when the given number is a palindrome.
+- Firstly, I started to code with a static number but after that, I wanted to take a dynamic number from the keyboard.
