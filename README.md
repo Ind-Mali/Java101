@@ -24,3 +24,7 @@
 - I  started to write method with this app.
 - This app will throw back false or true when the given number is a palindrome.
 - Firstly, I started to code with a static number but after that, I wanted to take a dynamic number from the keyboard.
+
+7. ## AdvanceCalculate.java
+- This advanced calculation app includes factorial, mod Retrieval, and exponent calculator.
+- I try to learn how can I apply the **method** to our app.
