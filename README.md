@@ -36,3 +36,8 @@
 9. ## RecursivePrime.java
 - We can check the given number is prime or not. 
 - There is a recursive method inside the code.
+
+10. ## PatternwithNumber.java
+- If the number is positive and equal 0, the number is decremented by **5** digits.
+- If the number is negative and equal 0, the number is incremented   by **5** digits.
+- Each step is printed to the console.
