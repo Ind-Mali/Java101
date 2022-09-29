@@ -32,3 +32,7 @@
 8. ## RecursiveExp.java
 - This app recursive method for exponantial.
 - The classic example of recursive programming involves computing factorials. The factorial of a number is computed as that number times all of the numbers below it up to and including 1. For example, factorial(5) is the same as 5*4*3*2*1, and factorial(3) is 3*2*1.
+
+9. ## RecursivePrime.java
+- We can check the given number is prime or not. 
+- There is a recursive method inside the code.
