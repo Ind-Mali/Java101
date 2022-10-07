@@ -50,3 +50,6 @@
 - We take the number which want to check.
 - The app return the **nearest number smaller** than the entered number and the **nearest number greater** than the entered number.
 
+12. ## Letter.java
+- This application returns that do letters from stars.
+- There are forEach and for loops.
