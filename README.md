@@ -41,3 +41,12 @@
 - If the number is positive and equal 0, the number is decremented by **5** digits.
 - If the number is negative and equal 0, the number is incremented   by **5** digits.
 - Each step is printed to the console.
+
+11. ## FindMinandMax.java
+
+- Firstly, We determine the length of the array based on the value received from the user.
+- We take the number from keyboard.
+- We sort them in the array
+- We take the number which want to check.
+- The app return the **nearest number smaller** than the entered number and the **nearest number greater** than the entered number.
+
