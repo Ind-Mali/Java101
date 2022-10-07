@@ -53,3 +53,8 @@
 12. ## Letter.java
 - This application returns that do letters from stars.
 - There are forEach and for loops.
+
+13. ## RepetitiveNumber.java
+
+- This app returns numbers which are even number inside the array.
+- For examples; The array consist of ***int[] arr = { 3, 7, 3, 2, 9, 10, 21, 1, 33, 9, 1, 2, 4, 22, 12, 12, 22 };***, return numbers 2, 22, 12.
