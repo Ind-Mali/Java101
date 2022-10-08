@@ -58,3 +58,10 @@
 
 - This app returns numbers which are even number inside the array.
 - For examples; The array consist of ***int[] arr = { 3, 7, 3, 2, 9, 10, 21, 1, 33, 9, 1, 2, 4, 22, 12, 12, 22 };***, return numbers 2, 22, 12.
+
+14. ## GuessesNumberGame.java
+
+- We have 5 rights.
+- When We enter the wrong number our right decrease and the wrong number append the array. The app returns us the our right.
+- If We enter the right number the app returns us You won.
+- At the end of the game, If We do not guess the right number, the app returns us that we lose.
