@@ -65,3 +65,9 @@
 - When We enter the wrong number our right decrease and the wrong number append the array. The app returns us the our right.
 - If We enter the right number the app returns us You won.
 - At the end of the game, If We do not guess the right number, the app returns us that we lose.
+
+15. ## CountingRepititiveNumber.java
+
+- We create one array and We want to counting inside the numbers.
+- This app solving this problem.
+- There are method inside the code. One of them ignore(), the other one is equalCount().
