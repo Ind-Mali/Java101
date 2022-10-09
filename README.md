@@ -71,3 +71,7 @@
 - We create one array and We want to counting inside the numbers.
 - This app solving this problem.
 - There are method inside the code. One of them ignore(), the other one is equalCount().
+
+16. ## TransopeMatrix.java
+- If We have got multidimensional array and We want to transpose this array We can use this app.
+- Basically, We change the array column and row.
