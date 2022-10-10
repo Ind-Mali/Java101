@@ -75,3 +75,9 @@
 16. ## TransopeMatrix.java
 - If We have got multidimensional array and We want to transpose this array We can use this app.
 - Basically, We change the array column and row.
+
+17. ## PalindromicWords.java
+
+- This app return true or false according to isPalindromic() method.
+- If the word is palindromic word, the app return true.
+- The opposite, the app return false.
